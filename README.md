@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Face Recognition & Finger Counting in Python
 
 A Python project that detects and recognizes faces using OpenCV's LBPH algorithm,  
@@ -21,3 +22,7 @@ python train_lbph.py
 Run Realtime Recognition & Finger Counting
 
 python recognize.py
+=======
+# face-recognition
+Making Face-recognition model just to learn OpenCv
+>>>>>>> 663b9d3dd6fc33f00e649a62f86e78b9c807f523
